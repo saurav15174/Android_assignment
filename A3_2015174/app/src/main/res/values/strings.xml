@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sensor Logger</string>
+    <string name="Xvalue">Acceleration force along the x axis :</string>
+    <string name="Yvalue">Acceleration force along the y axis :</string>
+    <string name="Zvalue">Acceleration force along the z axis :</string>
+    <string name="starttext">STARt</string>
+    <string name="Stoptext">Stop</string>
+    <string name="gx">Rate of rotation around the x axis : </string>
+    <string name="gy">Rate of rotation around the y axis :</string>
+    <string name="gz">Rate of rotation around the z axis :</string>
+    <string name="longt">Longitude : </string>
+    <string name="latit">Latitude : </string>
+    <string name="request">Request Coordinates</string>
+    <string name="cellId">Cell Id :</string>
+    <string name="soundlevel">Sound Level :</string>
+    <string name="export">EXPORT</string>
+</resources>
